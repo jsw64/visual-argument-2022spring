@@ -1,0 +1,9 @@
+This is the preview of my visual argument. As you can see, the aim of my argument is to encourage everyone to go out and vote! I decided to ditch my old idea because I didn't think I would be able to make it work well on
+GIMP, and also I felt like I had much less creative freedom with that idea so I decided to make an argument advocating for people to vote. Right now is a very bare bones idea of what
+I want to do. I've managed to change the background color to pastel yellow, which I think will help the other blue, white, and red, colors pop more. I've also added an image of the United
+States flag in the shape of the United States map, as well as some text saying 'Vote!, Let's do our part!". My goal for the project is to cut out lines for the states and crop some of the
+states out of the flag. Then, I am going to add some hands with envelopes in the shapes of the states that were cropped out to symbolize people "doing their part" by voting, to show that
+everything comes together when we vote. I also want to add more text such as "Let your voice be heard" and "Democracy is in our hands". To accomplish these goals, I am first going to trace
+the state lines from the map. Next I'll learn how to use the cropping tool in GIMP to separate some states from the map. Then, I'll need to bring in some new assets as well as figure
+out which fonts and colors and I want to use for the text, and how I want to arrange them. I have a feeling there is a lot to learn in GIMP, but I think that I can figure it out and
+make an incredible visual argument.
